@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 임다빈입니다!
+# 👋 Hi, I am Dabin!
 
 🤖 Android 앱 개발자
 
