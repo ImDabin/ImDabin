@@ -1,9 +1,9 @@
 # 👋 Hi, I am Dabin!
 
-🤖 Android 앱 개발자
+🤖 앱 개발자
 
 🎓 성결대학교 컴퓨터공학과 (2026년 2월 졸업)  
-💡 관심 분야: Android 앱 개발, Firebase, UI/UX 설계
+💡 관심 분야: 앱 개발, Firebase, UI/UX 설계
 
 ---
 
